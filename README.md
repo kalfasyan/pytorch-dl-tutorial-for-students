@@ -21,9 +21,10 @@ These instructions will guide you through creating a new Conda environment calle
 1. Open anaconda prompt on your computer (`Start button --> type Anaconda prompt`). You should now see `(base)` at the start of your prompt.
 2. Create a new Conda environment called "dltut" by typing the following command: `conda create --name dltut`
 3. Activate the new environment by typing: `conda activate dltut`
-4. Install pip with Conda by typing: `conda install pip -y`
-Now you are ready to go the the *Usage* section.
-5. Install some other jupyter notebook dependencies: `conda install nb_conda_kernels ipywidgets ipykernel -y`
+4. Install pip with Conda by typing: `conda install pip -y`  
+5. Install some other jupyter notebook dependencies: `conda install nb_conda_kernels ipywidgets ipykernel -y`  
+  
+Now you are ready to go the the *Usage* section.  
 
 ## Usage
 1. Clone the repository:
