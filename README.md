@@ -8,18 +8,17 @@ See requirements.txt for required libraries
 
 ## Usage
 1. Clone the repository:
-`git clone https://github.com/your_username/pytorch-dog-breed-classifier.git`
+`git clone https://github.com/your_username/pytorch-dog-breed-classifier.git`  
 2. Install the required libraries by running the following command:
-`pip install -r requirements.txt`
-3. Download the dogs.zip file from this repository and extract it into the project directory (if on Windows, otherwise the notebook will extract it for you).
-
-4. Start Jupyter Notebook and open the TUTORIAL.ipynb file
+`pip install -r requirements.txt`  
+3. Download the dogs.zip file from this repository and extract it into the project directory (if on Windows, otherwise the notebook will extract it for you).  
+4. Start Jupyter Notebook and open the **TUTORIAL.ipynb** file.  
 5. Follow the instructions in the notebook to train and test the model.
 
 ## Files
-TUTORIAL.ipynb: Jupyter notebook with the tutorial code
-dogs.zip: Compressed file containing the Stanford Dogs Dataset
-requirements.txt: List of required libraries
+**TUTORIAL.ipynb**: Jupyter notebook with the tutorial code  
+**dogs.zip**: Compressed file containing the subset of the Stanford Dogs Dataset  
+**requirements.txt**: List of required libraries  
 
 ## Credits
 The ResNet-18 implementation is adapted from the official PyTorch documentation: https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html
