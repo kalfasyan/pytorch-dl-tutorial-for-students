@@ -33,7 +33,7 @@ Now you are ready to go the the *Usage* section.
 2. Install the required libraries by running the following command:
 `pip install -r requirements.txt` (you have to run this command from within the repository folder).  
 3. Extract `dogs.zip` into the project directory (if on Windows, otherwise the notebook will extract it for you).  
-4. Start Jupyter Lab and open the **TUTORIAL.ipynb** file.  
+4. Start Jupyter Lab and open the **TUTORIAL.ipynb** file: `jupyter-lab` (from the project folder)  
 5. Follow the instructions in the notebook to train and test the model.
 
 ## Files
