@@ -1,0 +1,6 @@
+*:Zone.Identifier
+*.png
+*.jpg
+dogs/
+.ipynb_checkpoints/
+
