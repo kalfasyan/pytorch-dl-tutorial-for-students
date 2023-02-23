@@ -28,7 +28,7 @@ Now you are ready to go the the *Usage* section.
 
 ## Usage
 1. Clone the repository:
-`git clone https://github.com/your_username/pytorch-dog-breed-classifier.git`  
+`git clone https://gitlab.kuleuven.be/mebios-dl/masterpracticum_2023/pytorch-dl-tutorial-for-students.git`  
 (in case you don't have git installed, you can download it from [here](https://git-scm.com/download/win)).  
 2. Install the required libraries by running the following command:
 `pip install -r requirements.txt` (you have to run this command from within the repository folder).  
